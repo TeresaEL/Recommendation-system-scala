@@ -1,4 +1,4 @@
-# Movie_Recommender_System_Scala
+# Recommendation System using Scala
 
 This is a course project which leveraged Spark to build a movie recommender system in Scala.
 
