@@ -129,7 +129,7 @@ Chance is that the algorithm would predict a value which has a rating out of the
 
 * Build artifacts - Jar file
 
-Please browse the web for more details...
+
 
 
 
